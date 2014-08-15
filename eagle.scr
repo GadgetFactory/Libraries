@@ -51,6 +51,8 @@ Set color_layer 18 2; #Set vias to green
 Set color_layer 19 6; #Set unrouted to dark yellow
 Set color_layer 20 15; #Set dimension to light gray
 Set color_layer 21 16; #Set tPlace to white
+Set color_layer 25 16; #Set tNames to white
+Set color_layer 130 16; #Set tSilk to white
 Set color_layer 22 14; #Set bPlace to yellow
 Set color_layer 23 15; #Set tOrigins to light gray
 Set color_layer 24 15; #Set bOrigins to light gray
